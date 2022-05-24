@@ -1,0 +1,16 @@
+body {
+  font-size: 5em;
+}
+
+.test{
+  text-decoration: none;
+}
+
+.test a:hover {
+  text-decoration: none;
+  color : green;
+}
+
+p:hover {
+  color : red !important;
+}
